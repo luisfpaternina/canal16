@@ -35,7 +35,7 @@
             <field name="priority" eval="100"/>
             <field name="arch" type="xml">
                 <tree string="Moves">
-                    <field name="picking_partner_id" string="Partner"/>
+                    <field name="partner_id" string="Partner"/>
                     <field name="location_id" string="Source Location"/>
                     <field name="location_dest_id" string="Destination Location"/>
                     <field name="product_id"/>
